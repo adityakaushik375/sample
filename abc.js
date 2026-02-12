@@ -6,3 +6,5 @@ console.log(a)
 function hello(){
     console.log("helo")
 }
+
+console.log(":jdsj")
