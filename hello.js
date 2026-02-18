@@ -4,3 +4,6 @@ function hello(){
 }
 
 console.log("sbd");
+
+
+console.log("first console")
