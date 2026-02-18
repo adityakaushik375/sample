@@ -1,4 +1,4 @@
-const a = "hello"
+const a = "hello world of git and github"
 function hello(){
     console.log("hello");
 }
